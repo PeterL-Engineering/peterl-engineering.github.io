@@ -12,7 +12,7 @@ student at the [University of Toronto](https://www.utoronto.ca/),
 specializing in Electrical & Computer Engineering with a minor in
 Artificial Intelligence.
 I am particularly interested in computer architecture, 
-high-performance computing, FPGA development, and compilers.
+high-performance computing, and compilers.
 
 I recently completed a summer research term in the parallel systems
 and computing lab with [Mark Jeffrey](https://www.eecg.utoronto.ca/~mcj/).
