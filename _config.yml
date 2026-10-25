@@ -23,7 +23,7 @@ repository               : # URL
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Peter Leong"
   pronouns         : # example: "she/her"  
   bio              : "B.A.Sc., Engineering Science"
