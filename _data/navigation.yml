@@ -14,5 +14,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+  - tile: "Course Notes"
+    url: /course-notes/
+
+  # - title: "Publications"
+  #   url: /publications/
